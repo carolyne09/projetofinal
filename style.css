@@ -1,6 +1,6 @@
 body{
     background-color: rgb(238, 230, 241);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -27,7 +27,6 @@ body{
     display: flex;
     gap: 60px;
     padding: 30px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     font-size: 20px;
     flex-wrap: wrap;
