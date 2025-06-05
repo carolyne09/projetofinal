@@ -101,12 +101,12 @@ h1{
 .nome {
   margin-top: 20px;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 25px;
   color: #5a3c36;
 }
 
 .preco {
-  font-size: 16px;
+  font-size: 20px;
   color: #8b5e58;
   margin-top: 4px;
 }
