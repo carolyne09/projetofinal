@@ -27,6 +27,7 @@ body{
     display: flex;
     gap: 60px;
     padding: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     font-size: 20px;
     flex-wrap: wrap;
