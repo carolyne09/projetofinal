@@ -78,6 +78,7 @@ main{
 
 /* Parte do footer */
 .rodape {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial;
     background-color: rgb(82, 70, 64);
     color: white;
     padding: 20px 10px;
