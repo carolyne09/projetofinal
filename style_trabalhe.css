@@ -45,7 +45,6 @@ main{
     margin: 40px auto;
     width: 100%;
     text-align: justify;
-    boder-color: rgb(238, 230, 241);
     box-sizing: border-box;
     position: relative;
 }
