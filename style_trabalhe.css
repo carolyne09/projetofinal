@@ -46,6 +46,7 @@ main{
     width: 100%;
     text-align: justify;
     border: solid;
+    boder-color: rgb(238, 230, 241);
     box-sizing: border-box;
     position: relative;
 }
