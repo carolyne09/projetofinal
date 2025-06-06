@@ -44,6 +44,8 @@ main{
     min-height: 1050px;
     margin: 40px auto;
     width: 100%;
+    text-align: justify;
+    border: solid;
     box-sizing: border-box;
     position: relative;
 }
